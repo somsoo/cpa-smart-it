@@ -1,0 +1,8 @@
+﻿title: "스마트 IT & 모바일 꿀팁 정보센터"
+description: "중고폰, 자급제, 알뜰폰, IT 기기 최저가 구매 및 생활 속 스마트 IT 꿀팁을 전해드립니다."
+url: "https://it.enjoy-onepage.com"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
